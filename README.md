@@ -8,4 +8,5 @@ What is the purpose of this project?
 Answer:
 To learn Kotlin
 
-* Written a simple Main method that does some string printing, variables etc
+* Written a Dog class that extends from an Animal class
+* Written a Dog class that implements an interface
